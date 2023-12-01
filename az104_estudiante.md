@@ -1,6 +1,3 @@
-Claro, aquí tienes el código HTML convertido a formato Markdown:
-
-```markdown
 # AZ104 - Administrador de Microsoft Azure
 
 [Enlace a Microsoft Azure Administrator](https://learn.microsoft.com/es-es/credentials/certifications/azure-administrator/)
@@ -51,6 +48,3 @@ Claro, aquí tienes el código HTML convertido a formato Markdown:
 6. [Demos](https://azure.microsoft.com/es-es/get-started/on-demand)
 7. [Servicios gratuitos](https://azure.microsoft.com/es-es/pricing/free-services)
 8. [Responsabilidad Compartida](https://learn.microsoft.com/es-es/azure/security/fundamentals/shared-responsibility)
-```
-
-Este código Markdown refleja la estructura y enlaces del código HTML proporcionado. Puedes copiar y pegar este código en un archivo Markdown para visualizar el contenido de manera organizada.
