@@ -1,6 +1,6 @@
 # AZ104 - Administrador de Microsoft Azure
 
-[Enlace a Microsoft Azure Administrator](https://learn.microsoft.com/es-es/credentials/certifications/azure-administrator/)
+[Microsoft Azure Administrator](https://learn.microsoft.com/es-es/credentials/certifications/azure-administrator/)
 
 ---
 
