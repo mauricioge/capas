@@ -7,4 +7,4 @@ sudo apt-get update
 sudo apt-get install -y nginx
 
 # Set the home page.
-echo "<html><body><h2>Bienvenidos a Azure amigos de TIGO! My name is $(hostname).</h2></body></html>" | sudo tee -a /var/www/html/index.html
+echo "<html><body><h1>Bienvenidos a Azure amigos de <style color:red>TIGO!</style></h1><h2>El nombre de esta Máquina Virtual es $(hostname).</h2></body></html>" | sudo tee -a /var/www/html/index.html
