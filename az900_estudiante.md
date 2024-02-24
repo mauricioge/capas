@@ -7,6 +7,7 @@
 - **Mauricio González**
   - Email: mauricioge@gmail.com
   - Teléfono: +503 7483 4618
+  - [Grupo de WhatsApp](https://chat.whatsapp.com/LhlLDpkynd24RJbuiAZcvS)
 
 ---
 
@@ -42,10 +43,10 @@
 
 ## **MATERIAL DE APOYO**
 
-1. [Microsoft Learn: Azure](https://learn.microsoft.com/es-es/training/azure/)
-2. [Azure en Microsoft Learn](https://learn.microsoft.com/es-es/training/browse/?products=azure&resource_type=learning)
-3. [Documentación de Azure](https://learn.microsoft.com/es-es/azure/)
-4. -
-5. [azure.microsoft.com](https://azure.microsoft.com/es-es/)
-6. [Demos](https://azure.microsoft.com/es-es/get-started/on-demand)
-7. [Servicios gratuitos](https://azure.microsoft.com/es-es/pricing/free-services)
+- [Microsoft Learn: Azure](https://learn.microsoft.com/es-es/training/azure/)
+- [Azure en Microsoft Learn](https://learn.microsoft.com/es-es/training/browse/?products=azure&resource_type=learning)
+- [Documentación de Azure](https://learn.microsoft.com/es-es/azure/)
+---
+- [azure.microsoft.com](https://azure.microsoft.com/es-es/)
+- [Demos](https://azure.microsoft.com/es-es/get-started/on-demand)
+- [Servicios gratuitos](https://azure.microsoft.com/es-es/pricing/free-services)
